@@ -43,6 +43,9 @@ margin-right: 15px;
 background:  ;
 
 }
+article{
+	color:yellow;
+}
 
 @media only screen and (max-width: 500px) {
     .menu{
