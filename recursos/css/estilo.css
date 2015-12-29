@@ -5,7 +5,7 @@ body{
 .encabezado{
 width: 100%;
 height: 25vh;
-background: #11CEB4;
+background: blue;
 display:flex;
 flex-direction:column;
 justify-content:space-around;
